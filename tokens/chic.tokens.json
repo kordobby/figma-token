@@ -1,0 +1,44 @@
+{
+  "blue": {
+    "1": {
+      "value": "#e6f4ff",
+      "type": "color"
+    },
+    "2": {
+      "value": "#bae0ff",
+      "type": "color"
+    },
+    "3": {
+      "value": "#91caff",
+      "type": "color"
+    },
+    "4": {
+      "value": "#69b1ff",
+      "type": "color"
+    },
+    "5": {
+      "value": "#4096ff",
+      "type": "color"
+    },
+    "6": {
+      "value": "#1677ff",
+      "type": "color"
+    },
+    "7": {
+      "value": "#0958d9",
+      "type": "color"
+    },
+    "8": {
+      "value": "#003eb3",
+      "type": "color"
+    },
+    "9": {
+      "value": "#002c8c",
+      "type": "color"
+    },
+    "10": {
+      "value": "#001d66",
+      "type": "color"
+    }
+  }
+}
